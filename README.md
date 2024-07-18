@@ -37,14 +37,35 @@ To install AI Job Finder locally, follow these steps:
    ```bash
    git clone https://github.com/your-repo/ai-job-finder.git
    cd ai-job-finder
+   
 2. Install dependencies:
     ```bash
     npm install
+    
 3. Configure environment variables:
    - Create a .env file and add necessary configuration details.
+     
 4. Run the application:
    ```bash
    npm start
 
+## Usage
+### Job Seekers:
+- Register and create a profile.
+- Upload your resume and fill in your details.
+- Browse and apply for jobs based on your skills and proximity.
+- Track the status of your applications.
+
+### Employers:
+- Register and create a company profile.
+- Post job vacancies with detailed requirements.
+- Review applications and shortlist candidates.
+- Communicate with candidates through the platform.
+
+## Security
+AI Job Finder ensures user security with:
+- **Data Encryption:** All user data is encrypted in transit and at rest.
+- **Authentication:** Secure login mechanisms for job seekers and employers.
+- **Access Control:** Role-based access control to manage user permissions.
 
    
