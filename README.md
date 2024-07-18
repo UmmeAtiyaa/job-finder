@@ -37,3 +37,14 @@ To install AI Job Finder locally, follow these steps:
    ```bash
    git clone https://github.com/your-repo/ai-job-finder.git
    cd ai-job-finder
+2. Install dependencies:
+    ```bash
+    npm install
+3. Configure environment variables:
+   - Create a .env file and add necessary configuration details.
+4. Run the application:
+   ```bash
+   npm start
+
+
+   
